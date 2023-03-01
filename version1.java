@@ -1,5 +1,5 @@
 public static boolean esPrimo(int n){
-    int i=2;
+    int i=5;
    if(n<1){
     return false;
    }
